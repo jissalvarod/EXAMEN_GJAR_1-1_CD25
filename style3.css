@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(190, 209, 157);
+    text-align: center;
+}
+input{
+    border-top: 10px;
+    margin: auto;
+    padding: auto;
+}
